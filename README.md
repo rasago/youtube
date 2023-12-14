@@ -27,3 +27,7 @@ Actualmente ofrecemos una gran extension de servicios, los cuales son:
 6. Yotube VR
 7. Youtube Kids
 
+### Instalacion
+***
+Actualmente gracias a nuesto servicio WEB no tienes la necesidad de hacer una instalacion, simplemente entra en [www.youtube.com].
+Si finalmente te decides por instalarlo, los podras encontrar en:
