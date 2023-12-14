@@ -6,6 +6,7 @@
 3. [Instalacion](#Instalacion)
 4. [Colaboracion](#colaboracion)
 5. [FAQs](faqs)
+---
 ### Informacion General
 ***
 YouTube es un sitio web de origen estadounidense dedicado a compartir videos. Presenta una variedad de clips de películas, programas de televisión y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming.
@@ -31,3 +32,9 @@ Actualmente ofrecemos una gran extension de servicios, los cuales son:
 ***
 Actualmente gracias a nuesto servicio WEB no tienes la necesidad de hacer una instalacion, simplemente entra en [www.youtube.com].
 Si finalmente te decides por instalarlo, los podras encontrar en:
+
+### Colaboracion
+***
+
+### FAQs
+***
