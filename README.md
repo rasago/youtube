@@ -7,7 +7,7 @@
 4. [Interfaz](#interfaz)
 5. [FAQs](faqs)
 
-<div style="text-align: center;"> ### Informacion General </div>
+<h3 style="text-align: center;"> Informacion General </h3>
 ***
 YouTube es un sitio web de origen estadounidense dedicado a compartir videos. Presenta una variedad de clips de películas, programas de televisión y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming.
 Ademas existen varios tipos de YouTube, desde uno diseñado exclusivamente para contenido de niños, hasta uno para musica.
