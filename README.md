@@ -1,4 +1,4 @@
-# [YOUTUBE](https://www.youtube.es)
+# [YOUTUBE<sup>2</sup>](https://www.youtube.es) 
 ### INDICE
 1. [Informacion General](#informacion-general)
 2. [Versiones](#versiones)
@@ -7,7 +7,7 @@
 4. [Interfaz](#interfaz)
 5. [FAQs](faqs)
 
-<h3 style="text-align: center;"> Informacion General </h3>
+### Informacion General
 ***
 YouTube es un sitio web de origen estadounidense dedicado a compartir videos. Presenta una variedad de clips de películas, programas de televisión y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming.
 Ademas existen varios tipos de YouTube, desde uno diseñado exclusivamente para contenido de niños, hasta uno para musica.
@@ -39,6 +39,8 @@ Si te decides por la instalacion, tanto en Android (Play Store) como en IOs (App
 
 ### Interfaz
 ***
+Nuestra plataforma apuesta por una interfax sencilla e intuitiva, 
+
 
 ### FAQs
 ***
