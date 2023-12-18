@@ -63,6 +63,6 @@ En la [pagina web](https://www.youtube.es) y aplicacion tienes una interfaz muy 
 ***
 ***
 ***
-(![Texto de imagen]([https://www.enriquedans.com/wp-content/uploads/2019/07/App-Store-and-Play-Market-icons.jpg](https://aldaba.ong/wp-content/uploads/2023/02/Gracias-por-tu-apoyo-Aldaba.png)https://aldaba.ong/wp-content/uploads/2023/02/Gracias-por-tu-apoyo-Aldaba.png)
+![Texto de imagen](https://aldaba.ong/wp-content/uploads/2023/02/Gracias-por-tu-apoyo-Aldaba.png)https://aldaba.ong/wp-content/uploads/2023/02/Gracias-por-tu-apoyo-Aldaba.png)
 
 
