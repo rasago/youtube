@@ -3,11 +3,11 @@
 1. [Informacion General](#informacion-general)
 2. [Versiones](#versiones)
 3. [Tipos](#tipos)
-3. [Instalacion](#Instalacion)
-4. [Colaboracion](#colaboracion)
+3. [Instalacion](#instalacion)
+4. [Interfaz](#interfaz)
 5. [FAQs](faqs)
 
-### Informacion General
+<div style="text-align: center;"> ### Informacion General </div>
 ***
 YouTube es un sitio web de origen estadounidense dedicado a compartir videos. Presenta una variedad de clips de películas, programas de televisión y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming.
 Ademas existen varios tipos de YouTube, desde uno diseñado exclusivamente para contenido de niños, hasta uno para musica.
@@ -37,7 +37,7 @@ Si te decides por la instalacion, tanto en Android (Play Store) como en IOs (App
 
 
 
-### Colaboracion
+### Interfaz
 ***
 
 ### FAQs
