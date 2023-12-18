@@ -13,6 +13,8 @@
 YouTube es un sitio web de origen estadounidense dedicado a compartir videos. Presenta una variedad de clips de películas, programas de televisión y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming.
 Ademas existen varios tipos de YouTube, desde uno diseñado exclusivamente para contenido de niños, hasta uno para musica.
 
+[<sub>Mas info </sub>](https://github.com/rasago/youtube/wiki)
+
 ***
 
 ### Versiones
@@ -33,6 +35,8 @@ Actualmente ofrecemos una gran extension de servicios, los cuales son:
 6. [Yotube VR](https://www.youtube.com/channel/UCzuqhhs6NWbgTzMuM09WKDQ)
 7. [Youtube Kids](https://www.youtube.com/intl/ALL_es/kids/)
 
+[<sub>Mas info </sub>](https://github.com/rasago/youtube/wiki)
+
 ***
 
 ### Instalacion
@@ -42,6 +46,8 @@ Si te decides por la instalacion, tanto en Android (Play Store) como en IOs (App
 
 ![Image text](https://www.enriquedans.com/wp-content/uploads/2019/07/App-Store-and-Play-Market-icons.jpg)
 
+[<sub>Mas info </sub>](https://github.com/rasago/youtube/wiki)
+
 ***
 
 ### Interfaz
@@ -49,7 +55,9 @@ Si te decides por la instalacion, tanto en Android (Play Store) como en IOs (App
 Nuestras plataformas apuesta por una interfaz sencilla e intuitiva.
 En la [pagina web](https://www.youtube.es) tienes una interfaz muy intuitiva, dividida principalmente en dos menus, uno horizontal y otro vertical; el menu horizontal te servira para navegar entre el tipo de videos, y el menu vertical sirve para navegar entre las opciones de la pagina web.
 ![Image text](https://github.com/rasago/youtube/blob/main/YOUTUBEED.PNG)
-<img src="https://github.com/rasago/youtube/blob/main/YOURTUBEED2.PNG" width="50">
+<img src="https://github.com/rasago/youtube/blob/main/YOURTUBEED2.PNG" width="80">
+
+[<sub>Mas info </sub>](https://github.com/rasago/youtube/wiki)
 
 ***
 
