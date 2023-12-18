@@ -44,7 +44,7 @@ Actualmente ofrecemos una gran extension de servicios, los cuales son:
 Actualmente gracias a nuesto servicio WEB no tienes la necesidad de hacer una instalacion, simplemente entra en [www.youtube.com].
 Si te decides por la instalacion, tanto en Android (Play Store) como en IOs (App Store), podras descargar la ultima version disponibe para tu smartphon.
 
-![Texto de imagen](https:/ /www.enriquedans.com/wp-content/uploads/2019/07/App-Store-and-Play-Market-icons.jpg)
+![Texto de imagen](https://www.enriquedans.com/wp-content/uploads/2019/07/App-Store-and-Play-Market-icons.jpg)
 
 [<sub>Mas info </sub>](https://github.com/rasago/youtube/wiki)
 
