@@ -12,6 +12,7 @@
 YouTube es un sitio web de origen estadounidense dedicado a compartir videos. Presenta una variedad de clips de películas, programas de televisión y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming.
 Ademas existen varios tipos de YouTube, desde uno diseñado exclusivamente para contenido de niños, hasta uno para musica.
 
+
 ### Versiones
 ***
 En Youtube y sus derivados, no tenemos otras versiones, ya que tenemos un gran sistema de versiones el cual solo permite instalar la ultima version disponible.
@@ -39,7 +40,7 @@ Si te decides por la instalacion, tanto en Android (Play Store) como en IOs (App
 
 ### Interfaz
 ***
-Nuestra plataforma apuesta por una interfax sencilla e intuitiva, 
+Nuestras plataformas apuesta por una interfax sencilla e intuitiva, en la pagina web 
 
 
 ### FAQs
