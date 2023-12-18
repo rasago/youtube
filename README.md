@@ -40,8 +40,10 @@ Si te decides por la instalacion, tanto en Android (Play Store) como en IOs (App
 
 ### Interfaz
 ***
-Nuestras plataformas apuesta por una interfax sencilla e intuitiva, en la pagina web 
-
+Nuestras plataformas apuesta por una interfaz sencilla e intuitiva.
+En la [pagina web](https://www.youtube.es) tienes una interfaz muy intuitiva, dividida principalmente en dos menus, uno horizontal y otro vertical; el menu horizontal te servira para navegar entre el tipo de videos, y el menu vertical sirve para navegar entre las opciones de la pagina web.
+![Image text](https://github.com/rasago/youtube/blob/main/YOURTUBEED2.PNG)
+![Image text](https://github.com/rasago/youtube/blob/main/YOUTUBEED.PNG)
 
 ### FAQs
 ***
